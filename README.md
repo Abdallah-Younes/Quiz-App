@@ -1,2 +1,12 @@
-# Quiz-App
-A simple and interactive JavaScript Quiz App that tests your knowledge with multiple-choice questions. Built using HTML, CSS, and vanilla JS.
+# JavaScript Quiz App
+
+An interactive quiz game built with HTML, CSS, and JavaScript.
+
+## 🧠 Features
+- Dynamic questions and answers
+- Score tracking
+- Timer and progress bar
+- Responsive design
+
+## 🛠️ Technologies
+HTML • CSS • JavaScript
