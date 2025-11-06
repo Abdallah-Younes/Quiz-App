@@ -1,0 +1,38 @@
+[
+  {
+    "category": "HTML",
+    "question": "What does HTML stand for?",
+    "options": ["HyperText Markup Language", "HighText Machine Language", "Hyper Tool Multi Language", "Home Tool Markup Language"],
+    "correctAnswer": "HyperText Markup Language",
+    "explanation": "HTML stands for HyperText Markup Language and it is used to structure content on the web."
+  },
+  {
+    "category": "HTML",
+    "question": "Which attribute specifies an image source in the <img> tag?",
+    "options": ["alt", "href", "src", "link"],
+    "correctAnswer": "src",
+    "explanation": "The 'src' attribute defines the path or URL to the image file."
+  },
+  {
+    "category": "HTML",
+    "question": "Which element is used to insert a line break?",
+    "options": ["<lb>", "<break>", "<br>", "<line>"],
+    "correctAnswer": "<br>",
+    "explanation": "The <br> tag inserts a single line break."
+  },
+  {
+    "category": "HTML",
+    "question": "Which tag is used to define a table row?",
+    "options": ["<td>", "<tr>", "<th>", "<table-row>"],
+    "correctAnswer": "<tr>",
+    "explanation": "The <tr> tag defines a table row inside a table."
+  },
+  {
+    "category": "HTML",
+    "question": "Which HTML element is used to display a numbered list?",
+    "options": ["<ol>", "<ul>", "<dl>", "<list>"],
+    "correctAnswer": "<ol>",
+    "explanation": "The <ol> tag defines an ordered (numbered) list."
+  }
+  
+]
